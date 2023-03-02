@@ -1,9 +1,9 @@
 {
-  "name": "Message",
+  "name": "Excel Automation",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.17.0-preview]",
+    "UiPath.Excel.Activities": "[2.10.0-preview]",
     "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.System.Activities": "[22.10.4]",
     "UiPath.Testing.Activities": "[22.12.0-preview]",
@@ -48,7 +48,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "6b33f14b-53b0-4355-b652-6a22022d054e",
+      "uniqueId": "7b45d74e-1336-4eb1-9e18-6172a3d254cb",
       "input": [],
       "output": []
     }
